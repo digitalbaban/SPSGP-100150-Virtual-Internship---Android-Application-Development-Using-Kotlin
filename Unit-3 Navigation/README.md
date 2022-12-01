@@ -15,5 +15,5 @@
         width="200px" height="350px"> </p>
         
 <h1>About Me</h1>
-<p> I'm Surya, a computer science student interested in latest technologies </p>
+<p> I'm Baban, a computer science student interested in latest technologies </p>
 
